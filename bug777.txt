@@ -1,1 +1,3 @@
 this is solution of bug777
+
+my changes
